@@ -9,7 +9,7 @@ A simple weather app created using React JS.
 
 ## Screenshots
 ![image](https://drive.google.com/uc?export=view&id=1ZrtH8jBmYS-eUyAEq8Cy3X3CGqZFANht)
-[<iframe src="https://drive.google.com/file/d/1ZrtH8jBmYS-eUyAEq8Cy3X3CGqZFANht/preview" width="640" height="480"></iframe>]
+![image](https://drive.google.com/uc?export=view&id=1ZrtH8jBmYS-eUyAEq8Cy3X3CGqZFANht)
 
 ## Contribution
 If you have any ideas or issues, don't hesitate to make contact via the Issues page. Every contribution is appreciated.
