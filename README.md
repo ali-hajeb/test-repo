@@ -8,7 +8,7 @@ A simple weather app created using React JS.
 * Works with any city in the world
 
 ## Screenshots
-[image](https://drive.google.com/uc?export=view&id=1ZrtH8jBmYS-eUyAEq8Cy3X3CGqZFANht)
+[<img src="https://drive.google.com/uc?export=view&id=1ZrtH8jBmYS-eUyAEq8Cy3X3CGqZFANht" width=250>](https://drive.google.com/uc?export=view&id=1ZrtH8jBmYS-eUyAEq8Cy3X3CGqZFANht)
 [image](https://drive.google.com/uc?export=view&id=1qy7xtMlklacWr7sQ5UtG9b2hPA-VeK3t)
 
 ## Contribution
